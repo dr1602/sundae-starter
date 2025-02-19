@@ -164,3 +164,31 @@ npm test
 - [creating a Vite project](https://vitejs.dev/guide/#scaffolding-your-first-vite-project)
 - [Vitest Testing Library example](https://github.com/vitest-dev/vitest/tree/main/examples/react-testing-lib)
 - [Vitest ESLint plugin](https://www.npmjs.com/package/eslint-plugin-vitest)
+
+## Notas
+
+## Query Methods
+
+### Commands
+
+- **get**: expect element to be in DOM
+- **query**: expect element NOT to be in DOM
+- **find**: expect element to appear async
+
+### All
+
+- **(exclude)**: expect only one match
+- **(include)**: expect mora than one match
+
+### QueryType
+
+- **Role**: most preferred
+- **AltText**: images
+- **Text**: display elements
+- **Form elements**: PlaceholderText, LabelText, Display Value
+
+### Resources
+
+1. https://testing-library.com/docs/dom-testing-library/api-queries
+2. https://testing-library.com/docs/react-testing-library/cheatsheet/
+3. https://testing-library.com/docs/guide-which-query
