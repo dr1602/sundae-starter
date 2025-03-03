@@ -1,3 +1,6 @@
+# Clase a continuar
+https://stratis.udemy.com/course/react-testing-library/learn/lecture/24450786#overview
+
 # Starter code for Sundaes on Demand
 
 Created for the Udemy course [React Testing Library with Jest / Vitest](https://www.udemy.com/course/react-testing-library)
